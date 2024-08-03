@@ -1,220 +1,1032 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722704403320 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722704554666 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704406389 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704557759 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704409465 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704560816 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704412523 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704563871 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704415579 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704566939 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704418635 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704570011 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704421696 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704573077 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704424776 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704576149 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704427861 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704579203 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704430942 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704582273 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704434019 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704585505 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704437079 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704588568 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704440135 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704591629 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704443207 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704594691 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704446282 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704597754 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704449340 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704600812 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704452421 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704603882 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704455480 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704606939 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704458538 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704610002 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704461616 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704613110 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704464678 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704616187 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704467741 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704619264 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704470809 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704622323 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704473868 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704625381 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704476926 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704628441 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704479998 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704631503 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704483088 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704634601 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704486146 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704637706 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704489201 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704640775 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704492285 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704643836 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704495378 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704646904 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704498438 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704649966 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704501499 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704653029 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704504560 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704656097 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704507619 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704659153 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704510676 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704662206 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1722704513730 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1722704665268 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704668323 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704671380 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704674438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704677499 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704680555 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704683648 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704686713 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704689766 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704692822 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704695903 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704698967 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704702031 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704705095 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704708192 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704711263 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704714325 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704717384 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704720443 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704723497 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704726647 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704729721 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704732784 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704735843 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704738905 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704741964 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704745028 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704748096 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704751156 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704754212 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704757267 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704760323 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704763423 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704766496 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704769581 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704772655 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704775713 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704778788 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704781850 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704784910 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704787974 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704791043 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704794099 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704797158 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704800233 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704803298 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704806358 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704809418 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704812479 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704815551 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704818651 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704821711 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704824780 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704827864 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704830955 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704834025 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704837118 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704840218 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704843275 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704846330 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704849388 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704852450 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704855508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+tunnel pending: https://playit.gg/account/tunnels/21f4e454-1147-4e43-ae25-8fec5aed7040
+[2J8[0mplayit (v0.15.13): 1722704858575 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+shall-satisfaction.sa.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722704861648 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+shall-satisfaction.sa.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722704864728 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+shall-satisfaction.sa.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722704867798 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+shall-satisfaction.sa.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722704870851 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+shall-satisfaction.sa.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722704873911 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+shall-satisfaction.sa.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722704876979 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+shall-satisfaction.sa.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722704880077 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+shall-satisfaction.sa.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722704883150 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+shall-satisfaction.sa.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722704886208 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+shall-satisfaction.sa.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722704889276 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+shall-satisfaction.sa.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722704892341 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+shall-satisfaction.sa.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722704895396 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+shall-satisfaction.sa.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722704898462 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704901527 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704904591 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704907648 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704910710 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704913778 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704916836 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704919891 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704922967 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704926044 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704929112 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704932171 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704935250 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704938322 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704941405 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704944475 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704947553 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704950648 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704953736 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704956792 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704959855 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704962911 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704965967 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704969052 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704972128 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704975186 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704978257 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704981313 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704984376 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704987437 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704990496 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704993553 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704996627 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722704999695 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722705002760 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722705005814 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722705008870 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722705011947 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722705015010 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722705018062 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722705021117 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722705024175 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722705027234 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722705030293 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722705033348 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722705036408 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722705039487 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722705042554 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722705045618 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722705048692 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722705051768 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722705054854 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722705057925 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722705060993 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722705064050 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722705067118 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722705070187 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+little-moisture.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+target-reported.gl.at.ply.gg:3320 => 127.0.0.1:3320 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1722705073249 tunnel running, 2 tunnels registered
 
 
 TUNNELS
